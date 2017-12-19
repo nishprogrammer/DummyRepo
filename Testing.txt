@@ -10,3 +10,4 @@ This is the feature 1 commit 2 after PR.
 =====
 
 This is the feature 2 commit 1.
+This is the feature 2 commit 2.
